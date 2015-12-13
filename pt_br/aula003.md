@@ -9,12 +9,10 @@
 - Outros editores: Vim, emacs, geany, gedit...
 - Operações aritméticas com números inteiros
 - Apresentar o repositório do GitHub
-- Aviso sobre frequência de vídeos
 
 ### Links úteis:
 - [! Anotações dos Vídeos !](https://github.com/masterl/channel_annotations)
 - [Atom](https://atom.io/)
-- [Canal da CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
 - [Emacs as a C++ IDE](https://www.youtube.com/watch?v=5FQwQ0QWBTU) *vídeo em inglês*
 - [Vim Awesome](http://vimawesome.com/)
 - [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
