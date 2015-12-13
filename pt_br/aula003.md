@@ -9,6 +9,7 @@
 - Outros editores: Vim, emacs, geany, gedit...
 - Operações aritméticas com números inteiros
 - Apresentar o repositório do GitHub
+- Aviso sobre frequência de vídeos
 
 ### Links úteis:
 - [! Anotações dos Vídeos !](https://github.com/masterl/channel_annotations)
