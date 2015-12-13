@@ -41,6 +41,8 @@
 - funções - com parâmetro
 - std::vector
 - referências
+- separando os arquivos
+- compilando separadamente - arquivos objeto
 - matriz bidimensional - std::vector
 - operador `auto`
 - função lambda `[]()`

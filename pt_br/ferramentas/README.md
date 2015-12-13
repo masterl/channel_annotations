@@ -1,4 +1,4 @@
-## Instalação de Ferramentas
+## Ferramentas
 
 ### Vídeos
 - *em breve*

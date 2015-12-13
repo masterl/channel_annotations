@@ -4,10 +4,13 @@
 
 #### Playlists
 
-    - [Ferramentas](ferramentas/README.md)
-    - [C++ 14](cpp14/README.md)
-    - [Makefiles](makefiles/README.md)
-    - Resolução de problemas *provavelmente só após ter passado o básico na trilha de C++14*
+- [Ferramentas](ferramentas/README.md)
+- [C++ 14](cpp14/README.md)
+- [Makefiles](makefiles/README.md)
+- *provavelmente só após ter passado o básico na trilha de C++14*
+  - Resolução de problemas
+  - Desenvolvimento de Jogos com SDL
+  - OpenGL
 
 ##### Temas futuros:
 
