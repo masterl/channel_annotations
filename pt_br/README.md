@@ -11,4 +11,8 @@
 
 ##### Temas futuros:
 
-- Apresentação do canal, diferenciais, sobre mim, como entrar em contato
+- Apresentação do canal
+   - diferenciais/abordagem
+   - sobre mim
+   - como entrar em contato
+   - repositório no GitHub

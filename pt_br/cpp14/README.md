@@ -14,11 +14,16 @@
 - Breve noção de Assembly
 - Portabilidade? (Windows <-> Linux <-> MacOS)
 - Porque utilizar editor + terminal
+- Comentário sobre alguns dos compiladores existentes
+- Citar vídeos sobre instalação do ambiente
 - Estrutura de um programa C++
+- Demonstração de um programa sem inclusão de bibliotecas
 - Explicar o return na main *echo $?*
 - Hello World!
 - Introdução à iostream - parte 1 (cout e endl)
 - Introdução aos namespaces
+- Explicação sobre mensagens de erro no terminal
+- Diferença entre `using namespace std;` e `using std::cout`
 - Introdução à iostream - parte 2 (cin)
 - tipos básicos inteiros
 - tipos básicos ponto flutuante
@@ -31,6 +36,8 @@
 - laços de repetição - do-while
 - laços de repetição - for
 - funções - sem parâmetro
+- Explicação sobre a diferença entre () e (void) em funções C++
+  - Breve comentário sobre a diferença entre () e (void) em funções em C
 - funções - com parâmetro
 - std::vector
 - referências
