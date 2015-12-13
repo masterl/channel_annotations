@@ -7,6 +7,7 @@
 - [Ferramentas](ferramentas/README.md)
 - [C++ 14](cpp14/README.md)
 - [Makefiles](makefiles/README.md)
+- Boost Libraries
 - *provavelmente só após ter passado o básico na trilha de C++14*
   - Resolução de problemas
   - Desenvolvimento de Jogos com SDL
