@@ -52,7 +52,7 @@
 - ponteiros
 - array
 - std::array
-- <algorithm>
+- `<algorithm>`
 - matriz bidimensional - array de arrays
 - matriz bidimensional - array + manipulação de índice
 - buffer
@@ -61,7 +61,7 @@
 - construtor
 - destrutor
 - struct
-- <thread>
+- `<thread>`
 - alocação dinâmica
 - pré-processador (includes, macros)
 - recursividade
