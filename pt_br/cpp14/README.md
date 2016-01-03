@@ -1,14 +1,17 @@
 ## C++ 14
 
 ### Vídeos
-- *em breve*
+- [001 - Porquê C++?](001.md)
+
+### Links
+- [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
 ##### Temas futuros:
 *Talvez eu coloque mais de um tema em um vídeo, se não precisarem de um tempo muito grande para explicar.*
 
 ***Sem  ordem  específica - apesar de eu tentar agrupar alguns assuntos***
 
-- Porquê utilizar C++14?
+- Abstração (Code Complete)
 - Como funciona a compilação de um programa C++
 - Tradução do código para linguagem de máquina
 - Breve noção de Assembly
@@ -63,6 +66,8 @@
 - struct
 - `<thread>`
 - alocação dinâmica
+- RAII
 - pré-processador (includes, macros)
 - recursividade
 - executar outro programa
+- wrap de bibliotecas C

@@ -10,8 +10,13 @@
 - Boost Libraries
 - *provavelmente só após ter passado o básico na trilha de C++14*
   - Resolução de problemas
+  - Instalação de bibliotecas
   - Desenvolvimento de Jogos com SDL
   - OpenGL
+  - Conexão com bancos de dados
+     - sqlite
+     - postgresql
+     - ...
 
 ##### Temas futuros:
 
