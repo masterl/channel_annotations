@@ -14,7 +14,7 @@
    - diferenciais/abordagem
    - sobre mim
    - como entrar em contato
-   - repositório no GitHub
+   - [repositório no GitHub](https://github.com/masterl/channel_annotations)
 - Boost Libraries
 - *provavelmente só após ter passado o básico na trilha de C++14*
  - Resolução de problemas

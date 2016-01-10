@@ -11,6 +11,10 @@
 
 ***Sem  ordem  específica - apesar de eu tentar agrupar alguns assuntos***
 
+- Sistema utilizado
+  - Xubuntu 15.10
+  - gcc 5.2.1
+  - Atom
 - Abstração (Code Complete)
 - Como funciona a compilação de um programa C++
 - Tradução do código para linguagem de máquina
