@@ -7,16 +7,6 @@
 - [Ferramentas](ferramentas/README.md)
 - [C++ 14](cpp14/README.md)
 - [Makefiles](makefiles/README.md)
-- Boost Libraries
-- *provavelmente só após ter passado o básico na trilha de C++14*
-  - Resolução de problemas
-  - Instalação de bibliotecas
-  - Desenvolvimento de Jogos com SDL
-  - OpenGL
-  - Conexão com bancos de dados
-     - sqlite
-     - postgresql
-     - ...
 
 ##### Temas futuros:
 
@@ -25,3 +15,13 @@
    - sobre mim
    - como entrar em contato
    - repositório no GitHub
+- Boost Libraries
+- *provavelmente só após ter passado o básico na trilha de C++14*
+ - Resolução de problemas
+ - Instalação de bibliotecas
+ - Desenvolvimento de Jogos com SDL
+ - OpenGL
+ - Conexão com bancos de dados
+    - sqlite
+    - postgresql
+    - ...

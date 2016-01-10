@@ -12,6 +12,8 @@
 - [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ) *vídeo em inglês*
 - [Turn Vim & Tmux into an IDE like environment](https://www.youtube.com/watch?v=YD9aFIvlQYs) *vídeo em inglês*
 
-### Editores e plugins
+### Editores
 - [Atom](https://atom.io/)
+
+### Plugins
 - [Vim Awesome](http://vimawesome.com/)
