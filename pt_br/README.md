@@ -1,5 +1,3 @@
-# Estou reorganizando os vídeos e remontando os roteiros
-
 ### Índice Português
 
 #### Playlists
