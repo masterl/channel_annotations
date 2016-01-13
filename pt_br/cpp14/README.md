@@ -2,6 +2,7 @@
 
 ### Vídeos
 - [001 - Motivações e abordagem](001.md)
+- [002 - Origens do C++](002.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
