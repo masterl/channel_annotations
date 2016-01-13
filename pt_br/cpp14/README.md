@@ -1,7 +1,7 @@
 ## C++ 14
 
 ### Vídeos
-- [001 - Porquê C++?](001.md)
+- [001 - Motivações e abordagem](001.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
