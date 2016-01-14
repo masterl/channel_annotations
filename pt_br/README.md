@@ -11,6 +11,8 @@
 
 ##### Temas futuros:
 - Sugerir uso de linux
+- Abstração (Code Complete)
+- TDD
 - Boost Libraries
 - *provavelmente só após ter passado o básico na trilha de C++14*
  - Resolução de problemas
