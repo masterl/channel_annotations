@@ -1,6 +1,12 @@
 ## Instalação do GCC
 
--  *Link em breve*
+-  https://www.youtube.com/watch?v=ntp4CpQoXzs
+
+#### Nota:
+***Os pacotes sugeridos para as distribuições de Linux instalam mais que o pacote GCC!***
+
+São na verdade conjuntos de pacotes para compilação de programas.
+Faço a sugestão de instalá-los, pois além de também instalarem o *make* que utilizarei em alguns vídeos, também são necessários para compilar algum programa do qual você tenha obtido o código-fonte na internet.
 
 ### Passos
 
@@ -10,9 +16,9 @@
   - Arch Linux/Manjaro(?)
     - pacote *base-devel*
   - Fedora
-    - `yum install make gcc gcc-c++`
+    - `yum groupinstall "Development Tools" "Development Libraries"`
 - Windows
-  1. Baixar o TDM-GCC http://tdm-gcc.tdragon.net/download
+  1. Baixar o TDM-GCC http://tdm-gcc.tdragon.net
   2. Instalar
   3. Conferir se adicionou ao PATH
 - MacOS
