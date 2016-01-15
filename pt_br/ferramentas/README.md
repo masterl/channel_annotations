@@ -2,7 +2,7 @@
 
 ### Vídeos
 - [Instação do editor Atom](https://www.youtube.com/watch?v=vVrDNHP7zMo)
-
+- [Instalação do g++](instalacao_gcc.md)
 
 #### Temas futuros:
 
@@ -18,12 +18,6 @@
   - Geany
   - ...
 
-- Instalação do g++ (Windows) *TDM-GCC*
-- Instalação do g++ (Linux)
-- Instalação do g++ (MacOS)
-
-- Instalação do Atom (Windows)
-- Instalação do Atom (Linux)
 - Instalação do PowerShell (Windows) *?*
 
 #### Comentários úteis de usuários (copiados do vídeo aula001):
