@@ -17,7 +17,11 @@
   - Xubuntu 15.10
   - gcc 5.2.1
   - Atom
-- Como funciona a compilação de um programa C++
+- Estágios da compilação
+  - preprocessing
+  - compilation proper
+  - assembly
+  - linking
 - Tradução do código para linguagem de máquina
 - Breve noção de Assembly
 - Portabilidade? (Windows <-> Linux <-> MacOS)
@@ -26,7 +30,9 @@
 - Citar vídeos sobre instalação do ambiente
 - Estrutura de um programa C++
 - Demonstração de um programa sem inclusão de bibliotecas
-- Explicar o return na main *echo $?*
+- Explicar o return na main
+  - `echo $?`
+  - `echo %errorlevel%`
 - Hello World!
 - Introdução à iostream - parte 1 (cout e endl)
 - Introdução aos namespaces
