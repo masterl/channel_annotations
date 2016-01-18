@@ -4,6 +4,7 @@
 - [001 - Motivações e abordagem](001.md)
 - [002 - Origens do C++](002.md)
 - [003 - Introdução à compilação C++](003.md)
+- [004 - Estrutura mínima de um programa C++](004.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -25,14 +26,9 @@
 - Tradução do código para linguagem de máquina
 - Breve noção de Assembly
 - Portabilidade? (Windows <-> Linux <-> MacOS)
-- Porque utilizar editor + terminal
 - Comentário sobre alguns dos compiladores existentes
 - Citar vídeos sobre instalação do ambiente
-- Estrutura de um programa C++
 - Demonstração de um programa sem inclusão de bibliotecas
-- Explicar o return na main
-  - `echo $?`
-  - `echo %errorlevel%`
 - Hello World!
 - Introdução à iostream - parte 1 (cout e endl)
 - Introdução aos namespaces
