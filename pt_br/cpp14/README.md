@@ -1,10 +1,18 @@
 ## C++ 14
 
+- Sistema utilizado
+  - Xubuntu 15.10
+  - gcc 5.2.1
+  - Atom
+
 ### Vídeos
 - [001 - Motivações e abordagem](001.md)
 - [002 - Origens do C++](002.md)
 - [003 - Introdução à compilação C++](003.md)
 - [004 - Estrutura mínima de um programa em C++](004.md)
+- [005 - Introdução à iostream - Hello World!](005.md)
+- [006 - Pré-processador - #include](006.md)
+- [007 - std:: - uma introdução ao namespace](007.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -14,10 +22,7 @@
 
 ***Sem  ordem  específica - apesar de eu tentar agrupar alguns assuntos***
 
-- Sistema utilizado
-  - Xubuntu 15.10
-  - gcc 5.2.1
-  - Atom
+
 - Estágios da compilação
   - preprocessing
   - compilation proper
@@ -28,9 +33,6 @@
 - Portabilidade? (Windows <-> Linux <-> MacOS)
 - Comentário sobre alguns dos compiladores existentes
 - Citar vídeos sobre instalação do ambiente
-- Hello World!
-- Introdução à iostream - parte 1 (cout e endl)
-- Introdução aos namespaces
 - Explicação sobre mensagens de erro no terminal
 - Diferença entre `using namespace std;` e `using std::cout`
 - Introdução à iostream - parte 2 (cin)
@@ -73,7 +75,7 @@
 - `<thread>`
 - alocação dinâmica
 - RAII
-- pré-processador (includes, macros)
+- pré-processador macros
 - recursividade
 - executar outro programa
 - wrap de bibliotecas C
