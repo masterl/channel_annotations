@@ -4,7 +4,7 @@
 - [001 - Motivações e abordagem](001.md)
 - [002 - Origens do C++](002.md)
 - [003 - Introdução à compilação C++](003.md)
-- [004 - Estrutura mínima de um programa C++](004.md)
+- [004 - Estrutura mínima de um programa em C++](004.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -28,7 +28,6 @@
 - Portabilidade? (Windows <-> Linux <-> MacOS)
 - Comentário sobre alguns dos compiladores existentes
 - Citar vídeos sobre instalação do ambiente
-- Demonstração de um programa sem inclusão de bibliotecas
 - Hello World!
 - Introdução à iostream - parte 1 (cout e endl)
 - Introdução aos namespaces
