@@ -13,6 +13,8 @@
 - [005 - Introdução à iostream - Hello World!](005.md)
 - [006 - Pré-processador - #include](006.md)
 - [007 - std:: - uma introdução ao namespace](007.md)
+- [008 - Tipos básicos: inteiros](008.md)
+- [009 - Tipos básicos: bool e ponto-flutuante](009.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -34,10 +36,7 @@
 - Comentário sobre alguns dos compiladores existentes
 - Citar vídeos sobre instalação do ambiente
 - Explicação sobre mensagens de erro no terminal
-- Diferença entre `using namespace std;` e `using std::cout`
 - Introdução à iostream - parte 2 (cin)
-- tipos básicos inteiros
-- tipos básicos ponto flutuante
 - operadores aritméticos
 - operadores relacionais
 - estruturas de controle - if-else
