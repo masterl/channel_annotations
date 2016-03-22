@@ -15,6 +15,7 @@
 - [007 - std:: - uma introdução ao namespace](007.md)
 - [008 - Tipos básicos: inteiros](008.md)
 - [009 - Tipos básicos: bool e ponto-flutuante](009.md)
+- [010 - Representação binária](010.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
