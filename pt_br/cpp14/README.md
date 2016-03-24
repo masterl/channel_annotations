@@ -15,7 +15,7 @@
 - [007 - std:: - uma introdução ao namespace](007.md)
 - [008 - Tipos básicos: inteiros](008.md)
 - [009 - Tipos básicos: bool e ponto flutuante](009.md)
-- [010 - Representação binária](010.md)
+- [010 - Entrada do teclado](010.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -37,7 +37,6 @@
 - Comentário sobre alguns dos compiladores existentes
 - Citar vídeos sobre instalação do ambiente
 - Explicação sobre mensagens de erro no terminal
-- Introdução à iostream - parte 2 (cin)
 - operadores aritméticos
 - operadores relacionais
 - estruturas de controle - if-else
