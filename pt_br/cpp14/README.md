@@ -16,6 +16,7 @@
 - [008 - Tipos básicos: inteiros](008.md)
 - [009 - Tipos básicos: bool e ponto flutuante](009.md)
 - [010 - Entrada do teclado](010.md)
+- [011 - Estruturas de controle: if-else](011.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -39,7 +40,6 @@
 - Explicação sobre mensagens de erro no terminal
 - operadores aritméticos
 - operadores relacionais
-- estruturas de controle - if-else
 - estruturas de controle - else if
 - estruturas de controle - switch
 - laços de repetição - while
