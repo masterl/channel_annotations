@@ -17,6 +17,7 @@
 - [009 - Tipos básicos: bool e ponto flutuante](009.md)
 - [010 - Entrada do teclado](010.md)
 - [011 - Estruturas de controle: if - else if - else](011.md)
+- [012 - Laços de repetição: while](012.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -41,7 +42,6 @@
 - operadores aritméticos
 - operadores relacionais
 - estruturas de controle - switch
-- laços de repetição - while
 - laços de repetição - do-while
 - laços de repetição - for
 - funções - sem parâmetro
