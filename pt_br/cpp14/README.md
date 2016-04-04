@@ -18,6 +18,8 @@
 - [010 - Entrada do teclado](010.md)
 - [011 - Estruturas de controle: if - else if - else](011.md)
 - [012 - Laços de repetição: while](012.md)
+- [013 - Introdução à std::string: parte 1](013.md)
+- [014 - Introdução à std::string: parte 2](014.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -44,6 +46,7 @@
 - estruturas de controle - switch
 - laços de repetição - do-while
 - laços de repetição - for
+- const
 - funções - sem parâmetro
 - Explicação sobre a diferença entre () e (void) em funções C++
   - Breve comentário sobre a diferença entre () e (void) em funções em C
