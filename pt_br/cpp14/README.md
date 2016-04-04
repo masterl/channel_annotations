@@ -20,6 +20,7 @@
 - [012 - Laços de repetição: while](012.md)
 - [013 - Introdução à std::string: parte 1](013.md)
 - [014 - Introdução à std::string: parte 2](014.md)
+- [015 - Introdução à std::string: parte 3](014.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
