@@ -20,7 +20,8 @@
 - [012 - Laços de repetição: while](012.md)
 - [013 - Introdução à std::string: parte 1](013.md)
 - [014 - Introdução à std::string: parte 2](014.md)
-- [015 - Introdução à std::string: parte 3](014.md)
+- [015 - Introdução à std::string: parte 3](015.md)
+- [016 - Operadores aritméticos](016.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -42,7 +43,6 @@
 - Comentário sobre alguns dos compiladores existentes
 - Citar vídeos sobre instalação do ambiente
 - Explicação sobre mensagens de erro no terminal
-- operadores aritméticos
 - operadores relacionais
 - estruturas de controle - switch
 - laços de repetição - do-while
