@@ -22,6 +22,10 @@
 - [014 - Introdução à std::string: parte 2](014.md)
 - [015 - Introdução à std::string: parte 3](015.md)
 - [016 - Operadores aritméticos](016.md)
+- 017 - Introdução à std::vector (dividir em partes?) *em breve*
+- 0?? - Laços de repetição: for
+- 0?? - Laços de repetição: do-while
+- 0?? - Estruturas de controle - switch
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
