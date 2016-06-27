@@ -22,10 +22,11 @@
 - [014 - Introdução à std::string: parte 2](014.md)
 - [015 - Introdução à std::string: parte 3](015.md)
 - [016 - Operadores aritméticos](016.md)
-- 017 - Introdução à std::vector (dividir em partes?) *em breve*
-- 0?? - Laços de repetição: for
+- [017 - Laços de repetição: for](017.md)
 - 0?? - Laços de repetição: do-while
+- 0?? - Introdução à std::vector (dividir em partes?) *em breve*
 - 0?? - Estruturas de controle - switch
+- 0?? - Range for
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -48,15 +49,11 @@
 - Citar vídeos sobre instalação do ambiente
 - Explicação sobre mensagens de erro no terminal
 - operadores relacionais
-- estruturas de controle - switch
-- laços de repetição - do-while
-- laços de repetição - for
 - const
 - funções - sem parâmetro
 - Explicação sobre a diferença entre () e (void) em funções C++
   - Breve comentário sobre a diferença entre () e (void) em funções em C
 - funções - com parâmetro
-- std::vector
 - referências
 - separando os arquivos
 - compilando separadamente - arquivos objeto
