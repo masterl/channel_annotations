@@ -23,6 +23,8 @@
 - [015 - Introdução à std::string: parte 3](015.md)
 - [016 - Operadores aritméticos](016.md)
 - [017 - Laços de repetição: for](017.md)
+- [018 - Introdução à std::vector: parte 1](018.md)
+- [019 - Introdução à std::vector: parte 2](019.md)
 - 0?? - Laços de repetição: do-while
 - 0?? - Introdução à std::vector (dividir em partes?) *em breve*
 - 0?? - Estruturas de controle - switch
@@ -74,6 +76,7 @@
 - class
 - construtor
 - destrutor
+- construtores de std::vector
 - struct
 - `<thread>`
 - alocação dinâmica
