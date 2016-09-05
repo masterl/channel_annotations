@@ -25,6 +25,7 @@
 - [017 - Laços de repetição: for](017.md)
 - [018 - Introdução à std::vector: parte 1](018.md)
 - [019 - Introdução à std::vector: parte 2](019.md)
+- [020 - Introdução à std::vector: parte 3](020.md)
 - 0?? - Laços de repetição: do-while
 - 0?? - Introdução à std::vector (dividir em partes?) *em breve*
 - 0?? - Estruturas de controle - switch
