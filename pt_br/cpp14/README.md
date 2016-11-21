@@ -25,9 +25,10 @@
 - [017 - Laços de repetição: for](017.md)
 - [018 - Introdução à std::vector: parte 1](018.md)
 - [019 - Introdução à std::vector: parte 2](019.md)
-- [020 - Introdução à std::vector: parte 3](020.md)
+- [020 - Introdução à funções](020.md)
+- [0?? - Introdução à std::vector: parte 3](vector_part3.md)
+- 0?? - Introdução à constantes
 - 0?? - Laços de repetição: do-while
-- 0?? - Introdução à std::vector (dividir em partes?) *em breve*
 - 0?? - Estruturas de controle - switch
 - 0?? - Range for
 
@@ -52,7 +53,7 @@
 - Citar vídeos sobre instalação do ambiente
 - Explicação sobre mensagens de erro no terminal
 - operadores relacionais
-- const
+- const pointer
 - funções - sem parâmetro
 - Explicação sobre a diferença entre () e (void) em funções C++
   - Breve comentário sobre a diferença entre () e (void) em funções em C
