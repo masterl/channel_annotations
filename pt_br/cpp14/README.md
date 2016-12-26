@@ -31,12 +31,18 @@
 
 #### Próximos
 - ***ordem provável***
-  - [020 - Introdução à funções](000-050/020.md)
+  - 020 - operadores relacionais
+  - [021 - Introdução à funções](000-050/020.md) (possível divisão em mais de um vídeo)
+  - 022 - Introdução à constantes
+  - 023 - Estruturas de controle - switch
+  - 024 - Laços de repetição: do-while
+  - 025 - Range for
+  - 026 - Referências
+  - 027 - Introdução a ponteiros
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
-  - 0?? - Introdução à constantes
-  - 0?? - Laços de repetição: do-while
-  - 0?? - Estruturas de controle - switch
-  - 0?? - Range for
+  - ??? - Struct (agrupando informações)
+  - ??? - Class
+  - [??? - Pegadinhas em constantes](000-050/const_tricky.md)
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -58,13 +64,11 @@
 - Comentário sobre alguns dos compiladores existentes
 - Citar vídeos sobre instalação do ambiente
 - Explicação sobre mensagens de erro no terminal
-- operadores relacionais
 - const pointer
 - funções - sem parâmetro
 - Explicação sobre a diferença entre () e (void) em funções C++
   - Breve comentário sobre a diferença entre () e (void) em funções em C
 - funções - com parâmetro
-- referências
 - separando os arquivos
 - compilando separadamente - arquivos objeto
 - matriz bidimensional - std::vector
@@ -73,7 +77,6 @@
 - boas práticas - legibilidade/comentários
 - boas práticas - indentação
 - boas práticas - padrões
-- ponteiros
 - array
 - std::array
 - `<algorithm>`
@@ -81,7 +84,6 @@
 - matriz bidimensional - array + manipulação de índice
 - buffer
 - orientação a objeto
-- class
 - construtor
 - destrutor
 - construtores de std::vector
