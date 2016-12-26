@@ -1,36 +1,42 @@
 ## C++ 14
 
 - Sistema utilizado
-  - Xubuntu 15.10
-  - gcc 5.2.1
+  - Xubuntu 15.10 ou superior (atualizo todo ano)
+  - g++ 5.2.1 ou superior
   - Atom
 
 ### Vídeos
-- [001 - Motivações e abordagem](001.md)
-- [002 - Origens do C++](002.md)
-- [003 - Introdução à compilação C++](003.md)
-- [004 - Estrutura mínima de um programa em C++](004.md)
-- [005 - Introdução à iostream - Hello World!](005.md)
-- [006 - Pré-processador - #include](006.md)
-- [007 - std:: - uma introdução ao namespace](007.md)
-- [008 - Tipos básicos: inteiros](008.md)
-- [009 - Tipos básicos: bool e ponto flutuante](009.md)
-- [010 - Entrada do teclado](010.md)
-- [011 - Estruturas de controle: if - else if - else](011.md)
-- [012 - Laços de repetição: while](012.md)
-- [013 - Introdução à std::string: parte 1](013.md)
-- [014 - Introdução à std::string: parte 2](014.md)
-- [015 - Introdução à std::string: parte 3](015.md)
-- [016 - Operadores aritméticos](016.md)
-- [017 - Laços de repetição: for](017.md)
-- [018 - Introdução à std::vector: parte 1](018.md)
-- [019 - Introdução à std::vector: parte 2](019.md)
-- [020 - Introdução à funções](020.md)
-- [0?? - Introdução à std::vector: parte 3](vector_part3.md)
-- 0?? - Introdução à constantes
-- 0?? - Laços de repetição: do-while
-- 0?? - Estruturas de controle - switch
-- 0?? - Range for
+
+#### Lançados
+
+- [001 - Motivações e abordagem](000-050/001.md)
+- [002 - Origens do C++](000-050/002.md)
+- [003 - Introdução à compilação C++](000-050/003.md)
+- [004 - Estrutura mínima de um programa em C++](000-050/004.md)
+- [005 - Introdução à iostream - Hello World!](000-050/005.md)
+- [006 - Pré-processador - #include](000-050/006.md)
+- [007 - std:: - uma introdução ao namespace](000-050/007.md)
+- [008 - Tipos básicos: inteiros](000-050/008.md)
+- [009 - Tipos básicos: bool e ponto flutuante](000-050/009.md)
+- [010 - Entrada do teclado](000-050/010.md)
+- [011 - Estruturas de controle: if - else if - else](000-050/011.md)
+- [012 - Laços de repetição: while](000-050/012.md)
+- [013 - Introdução à std::string: parte 1](000-050/013.md)
+- [014 - Introdução à std::string: parte 2](000-050/014.md)
+- [015 - Introdução à std::string: parte 3](000-050/015.md)
+- [016 - Operadores aritméticos](000-050/016.md)
+- [017 - Laços de repetição: for](000-050/017.md)
+- [018 - Introdução à std::vector: parte 1](000-050/018.md)
+- [019 - Introdução à std::vector: parte 2](000-050/019.md)
+
+#### Próximos
+- ***ordem provável***
+  - [020 - Introdução à funções](000-050/020.md)
+  - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
+  - 0?? - Introdução à constantes
+  - 0?? - Laços de repetição: do-while
+  - 0?? - Estruturas de controle - switch
+  - 0?? - Range for
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
