@@ -31,8 +31,8 @@
 
 #### Próximos
 - ***ordem provável***
-  - 020 - operadores relacionais
-  - [021 - Introdução à funções](000-050/020.md) (possível divisão em mais de um vídeo)
+  - [020 - Introdução à funções](000-050/020.md) (possível divisão em mais de um vídeo)
+  - [021 - Operadores relacionais e lógicos](000-050/021.md)
   - 022 - Introdução à constantes
   - 023 - Estruturas de controle - switch
   - 024 - Laços de repetição: do-while
