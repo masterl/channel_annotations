@@ -31,7 +31,7 @@
 
 #### Próximos
 - ***ordem provável***
-  - [020 - Introdução à funções](000-050/020.md) (possível divisão em mais de um vídeo)
+  - [020 - Introdução à funções](000-050/020.md)
   - [021 - Operadores relacionais e lógicos](000-050/021.md)
   - 022 - Introdução à constantes
   - 023 - Estruturas de controle - switch
@@ -39,6 +39,7 @@
   - 025 - Range for
   - 026 - Referências
   - 027 - Introdução a ponteiros
+  - 0?? - Funções: valores padrão
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
   - ??? - Struct (agrupando informações)
   - ??? - Class
