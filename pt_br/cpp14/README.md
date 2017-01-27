@@ -32,15 +32,15 @@
 #### Próximos
 - ***ordem provável***
   - [020 - Introdução à funções](000-050/020.md)
-  - [021 - Operadores relacionais e lógicos](000-050/021.md)
-  - 022 - Introdução à constantes
-  - 023 - Estruturas de controle - switch
-  - 024 - Laços de repetição: do-while
-  - 025 - Range for
-  - 026 - Referências
-  - 027 - Introdução a ponteiros
+  - [021 - Introdução à funções: retorno](000-050/020.md)
+  - [022 - Operadores relacionais e lógicos](000-050/022.md)
+  - 023 - Introdução à constantes
+  - 024 - Estruturas de controle - switch
+  - 025 - Laços de repetição: do-while
+  - 026 - Range for
+  - 027 - Referências
+  - 028 - Introdução a ponteiros
   - 0?? - Funções: valores padrão
-  - 0?? - Funções: retorno antecipado
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
   - ??? - Struct (agrupando informações)
   - ??? - Class
