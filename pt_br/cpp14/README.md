@@ -40,6 +40,7 @@
   - 026 - Referências
   - 027 - Introdução a ponteiros
   - 0?? - Funções: valores padrão
+  - 0?? - Funções: retorno antecipado
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
   - ??? - Struct (agrupando informações)
   - ??? - Class
@@ -67,9 +68,6 @@
 - Explicação sobre mensagens de erro no terminal
 - const pointer
 - funções - sem parâmetro
-- Explicação sobre a diferença entre () e (void) em funções C++
-  - Breve comentário sobre a diferença entre () e (void) em funções em C
-- funções - com parâmetro
 - separando os arquivos
 - compilando separadamente - arquivos objeto
 - matriz bidimensional - std::vector
