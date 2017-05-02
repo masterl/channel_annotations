@@ -28,23 +28,28 @@
 - [017 - Laços de repetição: for](000-050/017.md)
 - [018 - Introdução à std::vector: parte 1](000-050/018.md)
 - [019 - Introdução à std::vector: parte 2](000-050/019.md)
+- [020 - Introdução à funções](000-050/020.md)
+- [021 - Introdução à funções: retorno](000-050/021.md)
 
 #### Próximos
 - ***ordem provável***
-  - [020 - Introdução à funções](000-050/020.md)
-  - [021 - Introdução à funções: retorno](000-050/020.md)
+
   - [022 - Operadores relacionais e lógicos](000-050/022.md)
-  - 023 - Introdução à constantes
-  - 024 - Estruturas de controle - switch
-  - 025 - Laços de repetição: do-while
-  - 026 - Range for
-  - 027 - Referências
-  - 028 - Introdução a ponteiros
+  - [023 - Operadores relacionais e lógicos](000-050/023.md)
+  - 024 - Introdução à constantes
+  - 025 - Estruturas de controle - switch
+  - 026 - Laços de repetição: do-while
+  - 027 - Range for
+  - 028 - Referências
+  - 029 - Introdução a ponteiros
+  - 0?? - Introdução à funções: sobrecarga
   - 0?? - Funções: valores padrão
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
   - ??? - Struct (agrupando informações)
   - ??? - Class
   - [??? - Pegadinhas em constantes](000-050/const_tricky.md)
+  - ??? - Sobrecarga de funções
+  - ??? - Introdução à pilha de execução
 
 ### Links
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
