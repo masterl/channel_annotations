@@ -34,7 +34,7 @@
 
 #### Próximos
 - ***ordem provável***
-  - [023 - Operadores relacionais e lógicos](000-050/023.md)
+  - [023 - Operadores lógicos](000-050/023.md)
   - 024 - Introdução à constantes
   - 025 - Estruturas de controle - switch
   - 026 - Laços de repetição: do-while
