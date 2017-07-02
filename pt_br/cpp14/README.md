@@ -30,11 +30,10 @@
 - [019 - Introdução à std::vector: parte 2](000-050/019.md)
 - [020 - Introdução à funções](000-050/020.md)
 - [021 - Introdução à funções: retorno](000-050/021.md)
+- [022 - Operadores relacionais](000-050/022.md)
 
 #### Próximos
 - ***ordem provável***
-
-  - [022 - Operadores relacionais e lógicos](000-050/022.md)
   - [023 - Operadores relacionais e lógicos](000-050/023.md)
   - 024 - Introdução à constantes
   - 025 - Estruturas de controle - switch
