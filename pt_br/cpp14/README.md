@@ -43,6 +43,7 @@
   - 029 - Introdução a ponteiros
   - 0?? - Introdução à funções: sobrecarga
   - 0?? - Funções: valores padrão
+  - 0?? - Expressões
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
   - ??? - Struct (agrupando informações)
   - ??? - Class
