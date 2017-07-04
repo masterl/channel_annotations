@@ -31,10 +31,10 @@
 - [020 - Introdução à funções](000-050/020.md)
 - [021 - Introdução à funções: retorno](000-050/021.md)
 - [022 - Operadores relacionais](000-050/022.md)
+- [023 - Operadores lógicos](000-050/023.md)
 
 #### Próximos
 - ***ordem provável***
-  - [023 - Operadores lógicos](000-050/023.md)
   - 024 - Introdução à constantes
   - 025 - Estruturas de controle - switch
   - 026 - Laços de repetição: do-while
@@ -44,6 +44,7 @@
   - 0?? - Introdução à funções: sobrecarga
   - 0?? - Funções: valores padrão
   - 0?? - Expressões
+  - 0?? - Inicialização com chaves `{}`
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
   - ??? - Struct (agrupando informações)
   - ??? - Class
