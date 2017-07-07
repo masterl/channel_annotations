@@ -9,10 +9,14 @@
 #### Vídeos
 - [Apresentação do canal](https://www.youtube.com/watch?v=MpcbGKzhyg8)
 
-##### Temas futuros:
+##### Possíveis temas futuros:
 - Sugerir uso de linux
 - Abstração (Code Complete)
 - TDD
+- Padrões de projeto (e como implementar em C++14/17)
+- Assembly?
+  - SSE/AVX... (e como utilizar em C++) ?
+- cmake?
 - Boost Libraries
 - *provavelmente só após ter passado o básico na trilha de C++14*
  - Resolução de problemas
