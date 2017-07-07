@@ -73,22 +73,40 @@
 - Citar vídeos sobre instalação do ambiente
 - Explicação sobre mensagens de erro no terminal
 - const pointer
+- nullptr
+- smart_pointers
 - funções - sem parâmetro
 - separando os arquivos
 - compilando separadamente - arquivos objeto
+- forward declarations
 - matriz bidimensional - std::vector
 - operador `auto`
 - função lambda `[]()`
+- tipo de retorno auto
+- generic lambdas
+- lambda capture expressions
 - boas práticas - legibilidade/comentários
 - boas práticas - indentação
 - boas práticas - padrões
 - array
 - std::array
 - `<algorithm>`
+- user defined literals
+- explicit
+- explicit conversion operators
+- static_assert
+- static_cast
 - matriz bidimensional - array de arrays
 - matriz bidimensional - array + manipulação de índice
 - buffer
 - orientação a objeto
+- attribute specifier sequence
+- atributo [[deprecated]]
+- union
+- constexpr
+- callable objects
+- function objects
+- uniform initialization
 - construtor
 - destrutor
 - construtores de std::vector
@@ -100,3 +118,11 @@
 - recursividade
 - executar outro programa
 - wrap de bibliotecas C
+- control and query of object alignment
+- inline namespace
+- decltype
+- declval
+- template aliases
+- variadic templates
+- conversões disponíveis em `<string>`
+- sintaxe alternativa de funções
