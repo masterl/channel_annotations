@@ -32,15 +32,15 @@
 - [021 - Introdução à funções: retorno](000-050/021.md)
 - [022 - Operadores relacionais](000-050/022.md)
 - [023 - Operadores lógicos](000-050/023.md)
+- [024 - Estruturas de controle - switch](000-050/024.md)
 
 #### Próximos
 - ***ordem provável***
-  - 024 - Introdução à constantes
-  - 025 - Estruturas de controle - switch
-  - 026 - Laços de repetição: do-while
-  - 027 - Range for
-  - 028 - Referências
-  - 029 - Introdução a ponteiros
+  - 025 - Laços de repetição: do-while
+  - 026 - Range for
+  - 027 - Referências
+  - 028 - Introdução a ponteiros
+  - 029 - Introdução à constantes
   - 0?? - Introdução à funções: sobrecarga
   - 0?? - Funções: valores padrão
   - 0?? - Expressões
