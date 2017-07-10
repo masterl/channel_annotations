@@ -36,7 +36,7 @@
 
 #### Próximos
 - ***ordem provável***
-  - 025 - Laços de repetição: do-while
+  - [025 - Laços de repetição: do-while](000-050/025.md)
   - 026 - Range for
   - 027 - Referências
   - 028 - Introdução a ponteiros
