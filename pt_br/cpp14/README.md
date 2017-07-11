@@ -33,10 +33,10 @@
 - [022 - Operadores relacionais](000-050/022.md)
 - [023 - Operadores lógicos](000-050/023.md)
 - [024 - Estruturas de controle - switch](000-050/024.md)
+- [025 - Laços de repetição: do-while](000-050/025.md)
 
 #### Próximos
 - ***ordem provável***
-  - [025 - Laços de repetição: do-while](000-050/025.md)
   - 026 - Range for
   - 027 - Referências
   - 028 - Introdução a ponteiros
