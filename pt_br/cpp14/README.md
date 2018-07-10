@@ -35,9 +35,12 @@
 - [024 - Estruturas de controle - switch](000-050/024.md)
 - [025 - Laços de repetição: do-while](000-050/025.md)
 
+#### Gravados (aguardando edição/postagem)
+
+- [026 - Introdução à funções: sobrecarga](000-050/026.md)
+
 #### Próximos
-- ***ordem provável***
-  - [026 - Introdução à funções: sobrecarga](000-050/026.md)
+- ***ordem provável***  
   - [027 - Introdução a ponteiros](000-050/027.md)
   - [028 - Referências](000-050/028.md)
   - [029 - Introdução a constantes](000-050/029.md)
