@@ -36,10 +36,10 @@
 - [025 - Laços de repetição: do-while](000-050/025.md)
 - [026 - Introdução à funções: sobrecarga](000-050/026.md)
 - [027 - Introdução a ponteiros](000-050/027.md)
+- [028 - Referências](000-050/028.md)
 
 #### Gravados (aguardando edição/postagem)
 
-- [028 - Referências](000-050/028.md)
 - [029 - Introdução a constantes](000-050/029.md)
 - [030 - Laços de repetição: Range-for](000-050/030.md)
 
