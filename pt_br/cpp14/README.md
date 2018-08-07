@@ -37,10 +37,10 @@
 - [026 - Introdução à funções: sobrecarga](000-050/026.md)
 - [027 - Introdução a ponteiros](000-050/027.md)
 - [028 - Referências](000-050/028.md)
+- [029 - Introdução a constantes](000-050/029.md)
 
 #### Gravados (aguardando edição/postagem)
 
-- [029 - Introdução a constantes](000-050/029.md)
 - [030 - Laços de repetição: Range-for](000-050/030.md)
 
 #### Próximos
@@ -55,8 +55,11 @@
   - ??? - Sobrecarga de funções
   - ??? - Introdução à pilha de execução
 
-### Links
+### Links interessantes
+
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+- [CPlusPlus](http://www.cplusplus.com/reference/)
+- [C++ Reference](https://en.cppreference.com/w/cpp)
 
 ##### Temas futuros:
 *Talvez eu coloque mais de um tema em um vídeo, se não precisarem de um tempo muito grande para explicar.*
