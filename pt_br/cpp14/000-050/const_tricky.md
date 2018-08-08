@@ -1,14 +1,11 @@
-## ??? - Pegadinhas em constantes
+## ??? - Objetos constantes com membro ponteiro
 
 - *em breve*
 
 ### Pontos
-- Diferença entre:
-  - int const * var; / const int * var;
-  - int * const var;
-  - int const * const var; / const int * const var;
 - Mostrar que valores apontados podem ser alterados
   - Exemplo:
+
 
   ```cpp
   struct Teste

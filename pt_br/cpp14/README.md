@@ -42,15 +42,16 @@
 
 #### Gravados (aguardando edição/postagem)
 
+- [031 - Introdução a funções: valores padrão](000-050/031.md)
+
 #### Próximos
 - ***ordem provável***  
-  - 0?? - Funções: valores padrão
-  - 0?? - Expressões
   - 0?? - Inicialização com chaves `{}`
+  - 0?? - Expressões
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
   - ??? - Struct (agrupando informações)
   - ??? - Class
-  - [??? - Pegadinhas em constantes](000-050/const_tricky.md)
+  - [??? - Objetos constantes com membro ponteiro](000-050/const_tricky.md)
   - ??? - Sobrecarga de funções
   - ??? - Introdução à pilha de execução
 
