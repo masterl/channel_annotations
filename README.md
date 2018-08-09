@@ -5,6 +5,10 @@
 
 [Clique aqui para as anotações em português](pt_br/README.md)
 
+#### Canal no discord para dúvidas:
+
+https://discord.gg/vFYKPbH
+
 ## English
 #### This is the annotations repository for [my youtube channel](https://www.youtube.com/channel/UCzMN9LSItBUT7N0L4HfwODA)
 
