@@ -39,10 +39,11 @@
 - [028 - Referências](000-050/028.md)
 - [029 - Introdução a constantes](000-050/029.md)
 - [030 - Laços de repetição: Range-for](000-050/030.md)
+- [031 - Introdução a funções: valores padrão](000-050/031.md)
 
 #### Gravados (aguardando edição/postagem)
 
-- [031 - Introdução a funções: valores padrão](000-050/031.md)
+
 
 #### Próximos
 - ***ordem provável***  
@@ -118,6 +119,7 @@
 - construtores de std::vector
 - struct
 - `<thread>`
+- callback functions
 - alocação dinâmica
 - RAII
 - pré-processador macros
