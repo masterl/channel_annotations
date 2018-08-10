@@ -44,13 +44,13 @@
 #### Gravados (aguardando edição/postagem)
 
 - [032 - Inicialização com chaves { }](000-050/032.md)
+- [033 - Agrupando informações (struct / class)](000-050/033.md)
 
 #### Próximos
-- ***ordem provável***  
+- ***ordem provável***
+  - 034 - Separando os arquivos
   - 0?? - Expressões
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
-  - ??? - Struct (agrupando informações)
-  - ??? - Class
   - [??? - Objetos constantes com membro ponteiro](000-050/const_tricky.md)
   - ??? - Sobrecarga de funções
   - ??? - Introdução à pilha de execução
@@ -78,11 +78,7 @@
 - Comentário sobre alguns dos compiladores existentes
 - Citar vídeos sobre instalação do ambiente
 - Explicação sobre mensagens de erro no terminal
-- const pointer
-- nullptr
 - smart_pointers
-- funções - sem parâmetro
-- separando os arquivos
 - compilando separadamente - arquivos objeto
 - forward declarations
 - matriz bidimensional - std::vector
