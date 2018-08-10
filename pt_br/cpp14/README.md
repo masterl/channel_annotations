@@ -43,7 +43,7 @@
 
 #### Gravados (aguardando edição/postagem)
 
-- 032 - Inicialização com chaves { }
+- [032 - Inicialização com chaves { }](000-050/032.md)
 
 #### Próximos
 - ***ordem provável***  
