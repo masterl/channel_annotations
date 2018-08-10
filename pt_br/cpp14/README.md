@@ -1,8 +1,8 @@
 ## C++ 14
 
-- Sistema utilizado
-  - Xubuntu 15.10 ou superior (atualizo todo ano)
-  - g++ 5.2.1 ou superior
+- Sistema/ferramentas utilizadas atualmente
+  - Manjaro
+  - g++ 8.1.1
   - Atom
 
 ### Vídeos
@@ -41,10 +41,11 @@
 - [030 - Laços de repetição: Range-for](000-050/030.md)
 - [031 - Introdução a funções: valores padrão](000-050/031.md)
 - [032 - Inicialização com chaves { }](000-050/032.md)
+- [033 - Agrupando informações (struct / class)](000-050/033.md)
 
 #### Gravados (aguardando edição/postagem)
 
-- [033 - Agrupando informações (struct / class)](000-050/033.md)
+
 
 #### Próximos
 - ***ordem provável***
