@@ -40,10 +40,10 @@
 - [029 - Introdução a constantes](000-050/029.md)
 - [030 - Laços de repetição: Range-for](000-050/030.md)
 - [031 - Introdução a funções: valores padrão](000-050/031.md)
+- [032 - Inicialização com chaves { }](000-050/032.md)
 
 #### Gravados (aguardando edição/postagem)
 
-- [032 - Inicialização com chaves { }](000-050/032.md)
 - [033 - Agrupando informações (struct / class)](000-050/033.md)
 
 #### Próximos
