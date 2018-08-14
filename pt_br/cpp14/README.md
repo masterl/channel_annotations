@@ -49,7 +49,7 @@
 
 #### Próximos
 - ***ordem provável***
-  - 034 - Separando os arquivos
+  - 034 - Separando os arquivos | Mais detalhes sobre a compilação
   - 0?? - Expressões
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
   - [??? - Objetos constantes com membro ponteiro](000-050/const_tricky.md)
@@ -68,11 +68,6 @@
 ***Sem  ordem  específica - apesar de eu tentar agrupar alguns assuntos***
 
 
-- Estágios da compilação
-  - preprocessing
-  - compilation proper
-  - assembly
-  - linking
 - Tradução do código para linguagem de máquina
 - Breve noção de Assembly
 - Portabilidade? (Windows <-> Linux <-> MacOS)
