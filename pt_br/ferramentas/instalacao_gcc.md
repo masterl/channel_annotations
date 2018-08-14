@@ -13,7 +13,7 @@ Faço a sugestão de instalá-los, pois além de também instalarem o *make* que
 - Linux
   - Debian/Ubuntu/Xubuntu/Kubuntu/Lubuntu
     - `sudo apt-get install build-essential`
-  - Arch Linux/Manjaro(?)
+  - Arch Linux/Manjaro
     - pacote *base-devel*
   - Fedora
     - `yum groupinstall "Development Tools" "Development Libraries"`

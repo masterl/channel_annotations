@@ -6,7 +6,7 @@
 
 #### Temas futuros:
 
-- Comentar sobre editores
+- Comentar sobre editores *?*
   - Visual Studio Code
   - Xcode
   - Atom
