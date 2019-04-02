@@ -49,7 +49,7 @@
 
 #### Próximos
 - ***ordem provável***
-  - 034 - Separando os arquivos | Mais detalhes sobre a compilação
+  - 034 - Separando os arquivos | Introdução
   - 0?? - Expressões
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
   - [??? - Objetos constantes com membro ponteiro](000-050/const_tricky.md)
