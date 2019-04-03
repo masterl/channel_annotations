@@ -42,6 +42,7 @@
 - [031 - Introdução a funções: valores padrão](000-050/031.md)
 - [032 - Inicialização com chaves { }](000-050/032.md)
 - [033 - Agrupando informações (struct / class)](000-050/033.md)
+- [034 - Separando os arquivos | Introdução](000-050/034.md)
 
 #### Gravados (aguardando edição/postagem)
 
@@ -49,7 +50,6 @@
 
 #### Próximos
 - ***ordem provável***
-  - 034 - Separando os arquivos | Introdução
   - 0?? - Expressões
   - [0?? - Introdução à std::vector: parte 3](000-050/vector_part3.md)
   - [??? - Objetos constantes com membro ponteiro](000-050/const_tricky.md)
