@@ -26,3 +26,27 @@
 - Diferença entre `'` e `"`
 - readonly
 - dirname
+
+### Código final
+
+```sh
+#!/bin/bash
+
+readonly SOURCE="$1"
+readonly SOURCE_DIR=$(dirname "$SOURCE")
+
+readonly OUTPUT_PATH="$SOURCE_DIR/programa"
+
+readonly COMPILE="g++ -Wall -std=c++14 $SOURCE -o $OUTPUT_PATH"
+
+readonly COMMAND="tput reset;
+echo $COMPILE;
+$COMPILE;
+echo;
+date;"
+
+while true; do
+  echo "$SOURCE"  |
+  entr -d bash -c "$COMMAND"
+done
+```

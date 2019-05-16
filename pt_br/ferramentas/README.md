@@ -3,6 +3,7 @@
 ### Vídeos
 - [Instação do editor Atom](https://www.youtube.com/watch?v=vVrDNHP7zMo)
 - [Instalação do g++](instalacao_gcc.md)
+- [Script de compilação automática](autocompiling_script.md)
 
 #### Temas futuros:
 
