@@ -13,6 +13,7 @@
 - Sugerir uso de linux
 - Abstração (Code Complete)
 - TDD
+- Arquitetura e organização de computadores
 - Padrões de projeto (e como implementar em C++14/17)
 - Assembly?
   - SSE/AVX... (e como utilizar em C++) ?
